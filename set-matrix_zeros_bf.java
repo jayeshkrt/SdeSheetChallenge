@@ -1,3 +1,6 @@
+// space complexiity O(1)
+// time complexity O(N*M*(N+M))  O(n^3) type
+
 import java.util.* ;
 import java.io.*; 
 public class Solution {

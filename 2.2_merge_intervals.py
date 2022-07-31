@@ -1,3 +1,6 @@
+# sorting time complexity O(nlogn) + O(n*n).O(nlogn) and O(n*n) bcoz we are checking to the right of each index which is a nested loop
+# space complexity : O(n) bcoz we're using new list
+
 class Solution:
     def merge(self, intervals):
 
